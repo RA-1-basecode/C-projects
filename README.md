@@ -1,3 +1,3 @@
-# C-projects
+# C++ Projects
 
 Latihan bahasa pemerograman C++ pemula
